@@ -4,13 +4,15 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
+    background-image: url("../img/photo-1514477917009-389c76a86b68.jpeg");
+    background-size: cover;
 
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 footer {
-    color: #888888;
+    color: white;
     border-top: 1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px 0;
@@ -27,7 +29,7 @@ h1 {
 }
 
 header a {
-    color: #888888;
+    color: white;
     margin-right: 16px;
     text-decoration: none;
 
@@ -49,7 +51,7 @@ input {
 button {
     cursor: pointer;
     border: 1px solid#888888;
-    background: #888888;
+    background: #333333;
     color: white;
     padding: 8px;
 }
